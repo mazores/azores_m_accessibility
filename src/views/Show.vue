@@ -8,171 +8,88 @@
 
           <b-col sm="4" class="transcriptContainer">
           <div class="transcriptText">
-          <span class="duration">00:05</span>
+          <span class="duration">00:02</span>
           <br><p>
-            Mom: Where are you going? We’re going to miss the plane!
+            Aunt Viv: Lou, if you walk out of Will's life now, don't you ever come back!
           </p>
 
-          <br><span class="duration">00:07</span>
+          <br><span class="duration">00:12</span>
           <br><p>
-            Narrator: When the McAllister family left on their Christmas vacation..
+            Uncle Phil: Sit down.
+            <br>Lou: Don't got no time for a lecture.
+            <br>Uncle Phil: I said sit down, Lou!
           </p>
 
-          <br><span class="duration">00:10</span>
+          <br><span class="duration">00:24</span>
           <br><p>
-            Mom: Did we miss the flight? 
-            <br>Flight Attendant: No, you just made it!
-            <br>* Kids cheer for joy*
+            *Lou sighs*
+            <br>Uncle Phil: You know, Will was doing just fine 'til you showed up. But now that you're back, you have responsibilities to him!
+            <br>Lou: Look, we're still gonna take the trip.
+            <br>Uncle Phil: Oh, bull! Bull! Will is not a coat that you hang in the coat and pick up whenever you're ready to wear it! His life goes on. He's not supposed to be here for you. You're supposed to be here for him!
+            <br>Lou: Get off my back! You think I want this? It just happened! Now, Will was a baby and I was scared-
           </p>
 
-          <br><span class="duration">00:14</span>
+          <br><span class="duration">00:57</span>
           <br><p>
-            Narrator: They forgot one small thing.
+            Uncle Phil: Cut the crap, alright? Cut it! Cause I've been there but I didn't run out on my family. I was there everyday for them because that's what a man does.
+            <br>Lou: Fine, Phillip! You win! You're the man. You're a man better than me. You happy? Now you gonna tell Will or not?
+            <br>Uncle Phil: I'm not gonna do your dirty work for you.
+            <br>Lou: Fine. I'll call him from the road.
+            <br>Uncle Phil: Then why don't you do that? 
+            <br>Lou: Yeah, I'll do that.
           </p>
 
-          <br><span class="duration">00:16</span>
+          <br><span class="duration">01:28</span>
           <br><p>
-            Have Yourself A Merry Little Christmas plays
-            <br>Mom: I have a terrible feeling.. Did you lock up?
-            <br>Dad: Yeah.
-            <br>Mom: Did we set the timers on the lights?
-            <br>Dad: Mhm. What else can we be forgetting?
+            Will: Daddy-o! What's up?
+            <br>Lou: Will! Hey, I'm glad you're here. Um, some business came up I gotta handle so we're gonna have to put, uh, our trip on hold. You understand. 
+            <br>Will: Yeah. Yeah, that's cool. That's cool.
+            <br>Lou: Just for a couple of weeks..
+            <br>Will: Mhm. I understand.
+            <br>Lou: Maybe longer.
+            <br>Will: Yeah. Whatever. Whatever.
+            <br>Lou: Look, I'll call you next week and we'll iron out the details okay?
+            <br>Will: Yeah..
+            <br>Lou: It was great seeing you, son.
           </p>
 
-          <br><span class="duration">00:30</span>
+          <br><span class="duration">02:07</span>
           <br><p>
-            Mom: KEVIN!
-            <br>Kevin: *screams*
+            Will: You too, Lou.
           </p>
 
-          <br><span class="duration">00:32</span>
+          <br><span class="duration">02:15</span>
           <br><p>
-            Narrator: Home Alone.
+            Lou: Yup. Yeah. Um.
           </p>
 
-          <br><span class="duration">00:36</span>
+          <br><span class="duration">02:24</span>
           <br><p>
-            News Reporter: Police in the Northern Suburbs are on the lookout for a pair of burglars who are calling themselves the “Wet Bandits”.
+            Uncle Phil: I'm sorry, Will.
+            <br>Will: You know what, actually, this works out better for me, you know? Slimmies' summer, come to class wearing next-
+            <br>Uncle Phil: Will, it's alright to be angry.
+            <br>Will: Hey, why should I be mad? At least he said goodbye this time. I just wish I hadn't wasted my money buying his stupid present.
           </p>
 
-          <br><span class="duration">00:41</span>
+          <br><span class="duration">02:43</span>
           <br><p>
-            Short Burglar: We know that you’re in there!
-            <br>Tall Burglar: It’s Santa Claus! And his elf!
+            Uncle Phil: I-I'm sorry. I'd- You know, if there was something that I could do.
+            <br>Will: Hey, you know what, you ain't gonna do no nothing, Uncle Phil. You know. Ain't like I'm still five years old, you know? Ain't like I'm gonna be sitting up every night, asking my mom when's daddy coming home, you know. Who needs him? He wasn't there to teach me how to shoot my first basket but I learned, didn't I? Hey, I got pretty damn good at it too, Uncle Phil.
+            <br>Uncle Phil: Yeah, you did.
+            <br>Will: Got through my first day without him. Right? I learned how to drive. I learned how to shave, how to fight without him. I had 14 great birthdays without him! He never even sent me a damn card. TO HELL WITH HIM!
+            <br>Will starts to cry but tries to muffle it.
           </p>
 
-          <br><span class="duration">00:46</span>
+          <br><span class="duration">03:19</span>
           <br><p>
-            Character on the TV: Get off my property! 
-            <br>*Gun fires*
+            Will: I didn't need him then, I don't need him now.
+            <br>Uncle Phil: Will- 
+            <br>Will: You know what, Uncle Phil? Imma get through college without him. I'm gonna get a great job without him. Imma marry me a beautiful honey and I'm having a whole bunch of kids and I'll be a better father than he ever was and I sure as hell don't need him for that cause ain't a damn thing he could ever teach me about how to love my kids! 
           </p>
 
-          <br><span class="duration">00:50</span>
+          <br><span class="duration">04:14</span>
           <br><p>
-            Kevin: This is my house. I have to defend it.
-          </p>
-
-          <br><span class="duration">00:53</span>
-          <br><p>
-            Store Manager: Where’s your mother?
-            <br>Kevin: My mom’s in the car.
-            <br>Store Manager: Where’s your father?
-            <br>Kevin: He’s at work.
-            <br>Store Manager:  What about your brothers and sisters?
-            <br>Kevin: I’m an only child.
-            <br>Store Manager:  Where do you live?
-            <br>Kevin: I can’t tell you that.
-            <br>Store Manager:  Why not?
-            <br>Kevin: Cause you’re a stranger.
-          </p>
-
-          <br><span class="duration">01:00</span>
-          <br><p>
-            Short Burglar [voiceover]: He’s a kid! I mean, what can a kid do to us?
-            <br>Tall Burglar [voiceover]: Kids are stupid.
-            <br>Tall Burglar: I know I was.
-            <br>Short Burglar: You still are, Mark.
-          </p>
-
-          <br><span class="duration">01:08</span>
-          <br><p>
-            Kevin: This is it.
-          </p>
-
-          <br><span class="duration">01:11</span>
-          <br><p>
-            *Tall Burglar screams in pain*
-          </p>
-
-          <br><span class="duration">01:12</span>
-          <br><p>
-            Mom: I don’t care if I’ve got to get on your runway and hitchhike! I am going to get home to my son.
-          </p>
-
-          <br><span class="duration">01:20</span>
-          <br><p>
-            *Tall Burglar screams in pain*
-            <br>Kevin: YES!
-          </p>
-
-          <br><span class="duration">01:24</span>
-          <br><p>
-            *Tall Burglar screams in pain*
-            <br>Short Burglar: Where are you, you little creep?!
-          </p>
-
-          <br><span class="duration">01:30</span>
-          <br><p>
-            Tall Burglar: I’m gonna kill that kid!
-            <br>Short Burglar: Why did you take your shoes off?
-            <br>Tall Burglar: Why are you dressed like a chicken? 
-          </p>
-
-          <br><span class="duration">01:34</span>
-          <br><p>
-            Gus: Gus Polinski. Poker king of the Midwest? If you have to get to Chicago we’ll gladly drive you.
-          </p>
-
-          <br><span class="duration">01:40</span>
-          <br><p>
-            Kevin: Hey guys.
-          </p>
-
-          <br><span class="duration">01:41</span>
-          <br><p>
-            Narrator: Yesterday, he was just a kid. But tonight, he’s a home security system.
-          </p>
-
-          <br><span class="duration">01:47</span>
-          <br><p>
-            Kevin: You guys give up? Or you’re thirsty for more? 
-          </p>
-
-          <br><span class="duration">01:50</span>
-          <br><p>
-            Narrator: From John Hughes..
-          </p>
-
-          <br><span class="duration">01:52</span>
-          <br><p>
-            Gus: You know, I got a feeling this is gonna be your best Christmas ever.
-          </p>
-
-          <br><span class="duration">01:55</span>
-          <br><p>
-            Narrator: A family comedy... without the family.
-            Narrator: Home Alone.
-          </p>
-
-          <br><span class="duration">02:00</span>
-          <br><p>
-            Store Manager: Are you here all alone? 
-            Kevin: I’m eight years old. You think I’d be here alone? I don’t think so.
-          </p>
-
-          <br><span class="duration">02:06</span>
-          <br><p>
-            Narrator: Directed by Chris Columbus. Coming November 16th.
+            Show theme song starts to play.
           </p>
           </div>
 
