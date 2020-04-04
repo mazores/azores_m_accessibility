@@ -35,10 +35,10 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## Built with:
-Vue
-vue-router
-vue-bootstrap
+## Built with
+* Vue
+* vue-router
+* vue-bootstrap
 
 ## Future
 Add in Title and Year of media
