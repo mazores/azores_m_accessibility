@@ -118,4 +118,47 @@ a {
     }
   }
 }
+
+@media only screen and (max-width: 1024px) {
+  #nav {
+    width: 30vw;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  #app {
+    overflow: visible;
+  }
+
+  #nav {
+    width: 65vw;
+  }
+
+  .movie, .show { 
+  .compContainer {
+    .videoContainer {
+      height: 200px;
+    }
+
+    .transcriptContainer {
+      text-align: left;
+
+      .transcriptText {
+        height: 300px;
+        
+        .duration {
+          padding: 5px;
+          font-size: 12px;
+        }
+
+        p {
+          margin: 5px 0;
+          font-size: 12px;
+        }
+      }
+    }
+  }
+}
+
+}
 </style>
