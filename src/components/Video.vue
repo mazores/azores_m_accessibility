@@ -177,7 +177,9 @@
           </div>
 
            <b-button>
+             <a href="./homealone.pdf" target="_blank">
               Download Transcript
+              </a>
           </b-button>
 
           </b-col>

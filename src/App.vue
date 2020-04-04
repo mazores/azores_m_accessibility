@@ -111,6 +111,10 @@ a {
           color: #000000;
         }
       }
+      a {
+        color: #ffffff;
+        text-decoration: none;
+      }
     }
   }
 }
