@@ -3,7 +3,7 @@
     <b-container fluid class="compContainer px-5">
       <b-row h-align="center justify-content-center">
           <b-col sm="8" class="videoContainer">
-          <iframe class="video" src="https://www.youtube.com/embed/jEDaVHmw7r4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>          
+          <iframe class="video" src="https://www.youtube.com/embed/PI4Mv8R0mE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>          
           </b-col>
 
           <b-col sm="4" class="transcriptContainer">
@@ -87,6 +87,12 @@
             <br>Will: You know what, Uncle Phil? Imma get through college without him. I'm gonna get a great job without him. Imma marry me a beautiful honey and I'm having a whole bunch of kids and I'll be a better father than he ever was and I sure as hell don't need him for that cause ain't a damn thing he could ever teach me about how to love my kids! 
           </p>
 
+          <br><span class="duration">03:45</span>
+          <br><p>
+            Will: How come he don't want me, man?
+            <br>Will starts to cry.
+          </p>
+
           <br><span class="duration">04:14</span>
           <br><p>
             Show theme song starts to play.
@@ -94,7 +100,9 @@
           </div>
 
            <b-button>
+             <a href="./belair.pdf" target="_blank">
               Download Transcript
+              </a>
           </b-button>
 
           </b-col>
